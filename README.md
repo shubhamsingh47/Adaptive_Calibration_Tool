@@ -1,6 +1,6 @@
 # Calibration Tool
 
-## Welcome to the **Intelligent Calibration Engine** 
+## Welcome to the **Calibration Tool Engine** 
 ### An end-to-end Machine Learning application that intelligently calibrates sensor readings from medical or industrial sensors.
 
 ## 💡 Features
