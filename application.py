@@ -3,7 +3,7 @@ from src.pipeline.ui import render_ui
 
 
 def main():
-    st.set_page_config(page_title="Intelligent Calibration", layout="wide")
+    st.set_page_config(page_title="Adaptive Calibration", layout="wide")
     render_ui()
 
 
